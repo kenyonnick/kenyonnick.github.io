@@ -1,0 +1,13 @@
+---
+import '../styles/global.css';
+import Layout from "../layouts/BaseLayout.astro"
+
+const labels = ["Game Developer", "Software Engineering", "Artist", "Voice Actor"]
+
+---
+
+<Layout title="About">
+    <main>
+        {labels.map((label) => <div>{label}</div>)}
+    </main>
+</Layout>
