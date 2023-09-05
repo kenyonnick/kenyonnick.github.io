@@ -3,7 +3,7 @@ layout: ../layouts/BaseLayout.astro
 title: My Story
 ---
 
-In my junior year of high school I took a programming class that changed my life forever. Outside of class I started making my first game, *Galactic Wing*.
+In my junior year of high school I took a programming class that changed my life forever. Outside of class I started making my first game, [*Galactic Wing*].
 While sharing my development progress with my classmates, I saw them light up in a way that made me realize what I wanted to with my life. 
 I knew then that I wanted to spend the rest of my life making things that made people that excited and happy.
 
@@ -37,3 +37,4 @@ In June of 2023, I married the love of my life, Nicole. We had an incredible wed
 
 [The Body of the Beast]:https://www.amazon.com/Body-Beast-Game-Internal-Conflict-ebook/dp/B01EYRHFCU
 [RadiantGardeners]:https://www.radiantgardeners.com
+[*Galactic Wing*]:/projects/galactic-wing/

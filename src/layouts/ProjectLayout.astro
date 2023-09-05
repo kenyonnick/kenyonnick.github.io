@@ -1,0 +1,15 @@
+---
+import Layout from "./BaseLayout.astro"
+
+const { frontmatter } = Astro.props;
+
+const dateLabel = frontmatter.startDate ? `${frontmatter.startDate} - ${frontmatter.endDate}` : frontmatter.endDate;
+---
+
+<Layout title={frontmatter.title}>
+    <main>
+        <h3 class="subtitle">{dateLabel}</h3>
+        <img src={frontmatter.image.url} alt={frontmatter.image.alt} class="bannerImage">
+        <slot />
+    </main>
+</Layout>
