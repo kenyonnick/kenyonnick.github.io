@@ -1,9 +1,7 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: Nicklas Kenyon Mooers | My Story
+title: My Story
 ---
-
-# My Story
 
 In my junior year of high school I took a programming class that changed my life forever. Outside of class I started making my first game, *Galactic Wing*.
 While sharing my development progress with my classmates, I saw them light up in a way that made me realize what I wanted to with my life. 
