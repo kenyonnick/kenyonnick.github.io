@@ -2,26 +2,42 @@
 import Layout from "../layouts/BaseLayout.astro"
 import '../styles/global.css';
 import '../styles/projects.css';
+import { compareDesc } from 'date-fns';
 
 const allProjects = await Astro.glob('./projects/*.md');
+const filteredProjects = allProjects.filter((p) => p.frontmatter.public);
+const sortedProjects = filteredProjects.sort((a, b) => {
+    if (a.frontmatter.sortDate && b.frontmatter.sortDate) {
+        return compareDesc(new Date(a.frontmatter.sortDate), new Date(b.frontmatter.sortDate));
+    } else if (a.frontmatter.sortDate) {
+        return -1;
+    } else {
+        return 1;
+    }
+});
 
 ---
 
 <Layout title="Projects">
     <main>
-        <h3 class="subtitle">Things I've worked on</h3>
         <div class="projects">
-            {allProjects.map((post) => (
-                <div class="card">
-                    {post.frontmatter.image && <img src={post.frontmatter.image.url} alt={post.frontmatter.image.alt} />}
-                    <div class="content">
-                        <a href={post.url}>{post.frontmatter.title}</a>
-                        <p>{post.frontmatter.description}</p>
-                        <div class="tags">{post.frontmatter.tags.map((tag: string) => <span class="tag">{tag}</span>)}</div>
+            {sortedProjects.map((post) => {
+                const dateLabel = post.frontmatter.startDate ? `${post.frontmatter.startDate} - ${post.frontmatter.endDate}` : post.frontmatter.endDate;
+                return (
+                    <div class="card">
+                        {post.frontmatter.image && <img src={post.frontmatter.image} alt={post.frontmatter.title + " thumbnail"} />}
+                        <div class="content">
+                            <div class="cardHeader">
+                                <a href={post.url}>{post.frontmatter.title}</a>
+                                <span>{dateLabel}</span>
+                            </div>
+                            <p>{post.frontmatter.description}</p>
+                            <div class="tags">{post.frontmatter.tags.map((tag: string) => <span class="tag">{tag}</span>)}</div>
+                        </div>
                     </div>
-                </div>
-            ))}
+                );
+            })}
         </div>
-        <p><em>I'm still working on back filling this</em></p>
+        <p><em>I'm still working on back filling this. Thanks for checking it out!</em></p>
     </main>
 </Layout>
