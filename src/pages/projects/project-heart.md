@@ -16,9 +16,13 @@ View the project's site here: [Project H.E.A.R.T.](http://projectheartvr.com/).
 
 I had the pleasure of working on the game as a Game Programmer Intern during the summer of 2017.
 
-On the tech rider for the game I am credited for Programming, Animation, Rigging, and VFX.
+On the tech rider for the game I am credited for:
+- Programming
+- Animation
+- Rigging
+- VFX
 
-My game programming responsibilities included programming AI/NPC behaviors on the battlefield (pathing, state machine, morale system), logic and procedural 
+My responsibilities included programming AI/NPC behaviors on the battlefield (pathing, state machine, morale system), logic and procedural 
 animation for character respawning, and iterating other small mechanics.
 I also modeled some primitive level assets (rocks, trees, bunkers), rigged and animated the NPC soldiers, and did some level design of the battlefield.
 
