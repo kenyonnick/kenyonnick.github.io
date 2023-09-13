@@ -14,9 +14,9 @@ Cube Emitter was a simple foray into visual effects and CGI on an inspired weeke
 
 With this project, I just wanted to get something simple to work, and there isn't much that's simpler than a 3D cube and tracking my watch band to get a cool little animation going. The goal was to make it look like I summoned the cube and had control over it.
 
-If I remember correctly, I made this with Adobe After Effects, Maya, and whatever phone I had at the time.
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/L-MdxUrIG2A?si=WdyLLvQDlu4CZjwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="youtube"></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/L-MdxUrIG2A?si=WdyLLvQDlu4CZjwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+If I remember correctly, I made this with Adobe After Effects, Maya, and whatever phone I had at the time.
 
 Additional notes: 
 - I loved that shirt, but I no longer have it :(
