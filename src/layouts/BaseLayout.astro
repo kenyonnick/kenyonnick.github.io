@@ -23,7 +23,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 		<title>{title}</title>
 	</head>
 	<header>
-		<h3>Nicklas Kenyon Mooers</h3> | <Navigation />	
+		<h2>Nicklas Kenyon Mooers</h2> <div><Navigation /></div>	
 	</header>
 	<body>
 		<h1>{title}</h1>
@@ -48,6 +48,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 		align-items: center;
 		justify-content: space-between;
 		position: sticky;
+		flex-wrap: wrap;
 	}
 
 	a {
@@ -85,5 +86,11 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 
 	table {
 		margin: 0.25rem auto;
+	}
+
+	@media screen and (max-width: 600px) {
+		header {
+			justify-content: center;
+		}
 	}
 </style>
