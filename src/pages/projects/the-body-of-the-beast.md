@@ -14,6 +14,8 @@ Below is a PDF of the first five pages of the game book. These pages include the
 
 <iframe width="100%" height="1000px" src="/downloads/TheBodyoftheBeast-PUBLIC.pdf"></iframe>
 
-This game was developed as part of a RPG Game Design class taught by Brenda Romero at Clarkson University. Over the course of a semester, I worked with my teammates Emma Atkinson, Yoel Ben-Avraham, and Michael Fulton to design a full table-top RPG inspired by Dungeons & Dragons.
+This game was developed as part of a RPG Game Design class taught by [Brenda Romero] at Clarkson University. Over the course of a semester, I worked with my teammates Emma Atkinson, Yoel Ben-Avraham, and Michael Fulton to design a full table-top RPG inspired by Dungeons & Dragons.
 
 I had a ton of fun working on this game from writing lore, to building spreadsheets of all of the weapons, armor, and items you could get in the game.
+
+[Brenda Romero]:https://brenda.games/

@@ -5,7 +5,7 @@ endDate: Summer 2017
 sortDate: 11-01-2017
 description: 'Interactive multi-media art piece about controlling your emotions'
 author: 'Nicklas Kenyon'
-tags: ["Art", "Games", "3D", "VR", "Unity"]
+tags: ["Games", "Art", "3D", "VR", "Unity"]
 image: 'http://projectheartvr.com/wp-content/uploads/2018/01/HEART05-copy2000x800.png'
 public: true
 ---
