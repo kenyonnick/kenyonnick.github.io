@@ -9,7 +9,8 @@ const dateLabel = frontmatter.startDate ? `${frontmatter.startDate} - ${frontmat
 <Layout title={frontmatter.title}>
     <main>
         <h3 class="subtitle">{dateLabel}</h3>
-        {frontmatter.image && <img src={frontmatter.image} alt={frontmatter.title + " thumbnail"} class="bannerImage">}
+        {!frontmatter.youtubeSrc && frontmatter.image && <img src={frontmatter.image} alt={frontmatter.title + " thumbnail"} class="bannerImage">}
+        {frontmatter.youtubeSrc && <iframe width="100%" height="auto" src={frontmatter.youtubeSrc} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="youtube"></iframe>}
         <slot />
     </main>
 </Layout>

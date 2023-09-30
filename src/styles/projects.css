@@ -26,7 +26,7 @@
     justify-content: space-between;
 }
 
-.card a {
+.card .mainLink {
     font-size: 18pt;
     text-decoration: none;
 }

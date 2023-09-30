@@ -9,3 +9,5 @@ author: 'Nicklas Kenyon'
 tags: ["Art", "3D", "Maya"]
 image: '/imgs/thumbnails/the_bridge.png'
 ---
+
+I don't remember when I wrote this poem or why anymore, but it ended up working well for my final project in my 3D modeling and animation course in college.
