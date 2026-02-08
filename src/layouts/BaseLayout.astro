@@ -23,12 +23,12 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 		<title>{title}</title>
 	</head>
 	<header>
-		<h2>Nicklas Kenyon Mooers</h2> <div><Navigation /></div>	
+		<h2><a href="/">Radiant Nick</a></h2> <div><Navigation /></div>	
 	</header>
 	<body>
 		<h1>{title}</h1>
 		<slot />
-		<footer>© 2023 Nicklas Kenyon Mooers | <Navigation /></footer>
+		<footer>© 2026 Nicklas Mooers | <Navigation /></footer>
 	</body>
 </html>
 <style is:global>
@@ -66,7 +66,6 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 	code {
 		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
 			Bitstream Vera Sans Mono, Courier New, monospace;
-		color: #0f8;
 	}
 
 	footer {
