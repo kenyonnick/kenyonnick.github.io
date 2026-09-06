@@ -5,7 +5,7 @@ startDate: Spring 2016
 endDate: Spring 2018
 sortDate: 05-28-2018
 description: 'Animated short film based on a poem I wrote'
-author: 'Nicklas Kenyon'
+author: 'Nicklas Mooers'
 tags: ["Art", "3D", "Maya"]
 image: '/imgs/thumbnails/the_bridge.png'
 youtubeSrc: https://www.youtube.com/embed/VBXzq4Uhz5s?si=U6oZqPGScmtcebnN

@@ -4,18 +4,18 @@ title: 'Dimension'
 startDate: Spring 2016
 endDate: Spring 2018
 sortDate: 05-28-2018
-description: 'Mind bending 3D platformer puzzle game where the player controls gravity'
-author: 'Nicklas Kenyon'
-tags: ["Games", "Game Design", "3D", "Unity"]
+description: 'First-person 3D platformer puzzle game where the player controls gravity'
+author: 'Nicklas Mooers'
+tags: ["Games", "Design", "3D", "Unity"]
 image: '/imgs/thumbnails/dimension.png'
 youtubeSrc: https://www.youtube.com/embed/wOv7IxRQrO4?si=o-pCXzCldsRFoWgx
 quickLink:
-    href: https://kenyonn.itch.io/dimension
-    label: Try It
+    href: https://Mooersn.itch.io/dimension
+    label: Play on Itch.io
 public: true
 ---
 
-The latest build of the game is available on [Itch.io](https://kenyonn.itch.io/dimension)
+The latest build of the game is available on [Itch.io](https://Mooersn.itch.io/dimension)
 
 Dimension a 3D platforming puzzle game I spent two years working on. The game gives players the ability to change gravity to change their perspective on their environment and influence the world around them. The game is three levels where players must collect key cards to progress through doors and answer a personal question correctly. These questions and preset answers are meant to challenge ideas of identity, labels, and how much control we have over them, juxtaposed with the player's control over their perspective.
 

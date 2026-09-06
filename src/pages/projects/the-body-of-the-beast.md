@@ -4,8 +4,8 @@ title: 'The Body of the Beast'
 endDate: Spring 2016
 sortDate: 04-28-2016
 description: 'Table Top RPG with a unique setting, mechanics, and lore'
-author: 'Nicklas Kenyon'
-tags: ["Games", "Game Design", "Table Top RPG"]
+author: 'Nicklas Mooers'
+tags: ["Games", "Design", "TableTopRPG"]
 image: '/imgs/thumbnails/the_body_of_the_beast.png'
 public: true
 ---

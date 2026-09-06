@@ -4,7 +4,7 @@ title: 'Cube Emitter'
 endDate: Fall 2016
 sortDate: 09-01-2016
 description: 'Experiment with shading, 3D modeling, and simple geometry'
-author: 'Nicklas Kenyon'
+author: 'Nicklas Mooers'
 tags: ["Art", "3D"]
 image: '/imgs/thumbnails/cubeemitter.png'
 public: true

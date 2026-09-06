@@ -4,7 +4,7 @@ title: 'Project H.E.A.R.T.'
 endDate: Summer 2017
 sortDate: 11-01-2017
 description: 'Interactive multi-media art piece about controlling your emotions'
-author: 'Nicklas Kenyon'
+author: 'Nicklas Mooers'
 tags: ["Games", "Art", "3D", "VR", "Unity"]
 image: '/imgs/thumbnails/project_heart.png'
 public: true

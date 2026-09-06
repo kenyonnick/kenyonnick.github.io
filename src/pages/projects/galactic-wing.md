@@ -4,7 +4,7 @@ title: 'Galactic Wing'
 endDate: Spring 2014
 sortDate: 05-01-2014
 description: 'Top-down 2D space arcade game'
-author: 'Nicklas Kenyon'
+author: 'Nicklas Mooers'
 image: '/imgs/thumbnails/galactic_wing.png' 
 tags: ["Games", "Art", "Java"]
 public: true

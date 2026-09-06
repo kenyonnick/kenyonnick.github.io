@@ -5,7 +5,7 @@ startDate: Fall 2016
 endDate: Spring 2017
 sortDate: 05-28-2017
 description: 'Virtual reality art piece on the sensory assault of capitalism'
-author: 'Nicklas Kenyon'
+author: 'Nicklas Mooers'
 tags: ["Art", "3D", "VR", "Unity"]
 image: '/imgs/thumbnails/usvrs.png'
 public: true
@@ -33,7 +33,7 @@ Please note: This project is built to be run on Windows using an Oculus Rift hea
 1. [Click here to download the zip file](/downloads/USVRS.zip) containing the executable and data folders.
 1. Unzip the file. Make sure to keep the `data` folder in the same location as the executable!
 1. Launch the Oculus software to prepare your Oculus Rift headset for play.
-1. Double click the "Nicklas Kenyon - USVRS.exe" executable to launch the project.
+1. Double click the "Nicklas Mooers - USVRS.exe" executable to launch the project.
 1. Feel free to set the graphics settings in the Unity Launcher to Fantastic. This application is in no way designed to be performant, and actually benefits slightly from a lack of performant code and execution.
 
 [Steven Mygind Pedersen]:https://www.stevenmygindpedersen.net/portfolio/

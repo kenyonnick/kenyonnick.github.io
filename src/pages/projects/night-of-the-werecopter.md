@@ -4,8 +4,8 @@ title: 'Night of the Werecopter'
 endDate: Spring 2015
 sortDate: 04-01-2015
 description: 'Half-werewolf, half-helicopter, wholly bizarre'
-author: 'Nicklas Kenyon'
-tags: ["Games", "Game Design", "Platformer", "Java"]
+author: 'Nicklas Mooers'
+tags: ["Games", "Design", "Platformer", "Java"]
 image: '/imgs/thumbnails/notw.png'
 public: true
 ---

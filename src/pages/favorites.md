@@ -5,7 +5,7 @@ title: Favorite Things
 
 Here are some of my favorite pieces of media!
 
-Favorite Games
+### Favorite Games
 - Star Wars: Battlefront II (Classic, 2005)
 - Titanfall 2
 - Kingdom Hearts (the whole series, please don't make me pick one)
@@ -13,7 +13,7 @@ Favorite Games
 - The Legend of Zelda: Twilight Princess
 - The Legend of Zelda: Ocarina of Time
 
-Favorite TV Shows
+### Favorite TV Shows
 - Toast of London
 - Avatar: The Last Airbender
 - Star Wars: The Clone Wars
@@ -21,7 +21,7 @@ Favorite TV Shows
 - Kuroko's Basketball
 - Haikyu!!
 
-Favorite Movies
+### Favorite Movies
 - Star Wars (I-VI, but especially III and V)
 - A Clockwork Orange
 - Bladerunner
