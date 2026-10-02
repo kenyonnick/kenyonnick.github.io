@@ -11,7 +11,7 @@ image: '/imgs/thumbnails/dimension.png'
 youtubeSrc: https://www.youtube.com/embed/wOv7IxRQrO4?si=o-pCXzCldsRFoWgx
 quickLink:
     href: https://Mooersn.itch.io/dimension
-    label: Play on Itch.io
+    label: Download on Itch.io
 public: true
 ---
 

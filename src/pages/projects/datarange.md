@@ -3,7 +3,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: 'Data Range'
 endDate: Spring 2017
 sortDate: 03-05-2017
-description: 'Survival Shooter in VR built in 24 hours'
+description: 'Arcade Survival Shooter in VR built in 24 hours'
 author: 'Nicklas Mooers'
 tags: ["Games", "VR", "UnrealEngine", "Hackathon"]
 image: '/imgs/thumbnails/datarange.png'

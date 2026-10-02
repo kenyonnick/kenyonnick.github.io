@@ -56,8 +56,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ## Projects to add
 
-- March Caprice Zine: https://github.com/kenyonnick/march-caprice-zine
-- Show Me the Munny
 - KH2FM Crowd Control
 - Controller Splitter (Radiant Rebinder)
 - KH Rebind

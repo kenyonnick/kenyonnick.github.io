@@ -1,9 +1,8 @@
 ---
 layout: ../../layouts/ProjectLayout.astro
 title: 'The Bridge'
-startDate: Spring 2016
-endDate: Spring 2018
-sortDate: 05-28-2018
+endDate: Fall 2015
+sortDate: 12-10-2015
 description: 'Animated short film based on a poem I wrote'
 author: 'Nicklas Mooers'
 tags: ["Art", "3D", "Maya"]

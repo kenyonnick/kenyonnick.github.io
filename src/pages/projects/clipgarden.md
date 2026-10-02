@@ -4,7 +4,7 @@ title: 'Clip Garden'
 startDate: September 2024
 endDate: December 2025
 sortDate: 09-10-2024
-description: 'A website for sharing and organizing Twitch Clips'
+description: 'A website for communities sharing and organizing Twitch Clips'
 author: 'Nicklas Mooers'
 tags: ["Web", "Twitch"]
 quickLink:

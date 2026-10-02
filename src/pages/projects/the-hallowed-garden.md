@@ -2,8 +2,8 @@
 layout: ../../layouts/ProjectLayout.astro
 title: 'The Hallowed Garden'
 startDate: September 2024
-endDate: October 2026
-sortDate: 10-01-2026
+endDate: October 2025
+sortDate: 10-01-2025
 description: 'A simple, cozy Halloween themed farming game'
 author: 'Nicklas Mooers'
 tags: ["Games", "Design", "2D", "Unity"]

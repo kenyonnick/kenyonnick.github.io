@@ -3,7 +3,7 @@ layout: ../../layouts/ProjectLayout.astro
 title: 'Cube Emitter'
 endDate: Fall 2016
 sortDate: 09-01-2016
-description: 'Experiment with shading, 3D modeling, and simple geometry'
+description: 'Experiment with shading, 3D modeling, and motion tracking'
 author: 'Nicklas Mooers'
 tags: ["Art", "3D"]
 image: '/imgs/thumbnails/cubeemitter.png'
