@@ -56,7 +56,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ## Projects to add
 
-- KH2FM Crowd Control
 - Controller Splitter (Radiant Rebinder)
 - KH Rebind
 - Party Fest
