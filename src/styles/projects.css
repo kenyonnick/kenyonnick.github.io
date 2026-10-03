@@ -19,6 +19,14 @@
     width: fit-content;
 }
 
+.title a {
+    color: black;
+}
+
+.title:hover {
+    background: cyan;
+}
+
 .card {
     border-radius: 0.5rem;
     display: flex;

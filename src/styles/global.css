@@ -44,3 +44,16 @@ code, pre {
     border-radius: 0.125rem;
     color: #0ff;
 }
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width: 480px) {
+    nav {
+        flex-direction: column;
+    }
+}
